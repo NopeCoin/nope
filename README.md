@@ -1,10 +1,5 @@
-Nope is an X13 PoW and PoS Hybrid Cryptocurrency
+Nope is an X11 PoW and PoS Hybrid Cryptocurrency
 Ticker: NOPE
-
-X13 Hashing Algorithm:(blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue)
-
-Block Reward Schedule:
-PoW Ends on Block 3000000 (approx. ~3-4 years)
 
 
 Development process
